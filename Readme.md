@@ -4,8 +4,7 @@
 
 ... more to be added soon
 
-# Contents
-#### Configured for:
+## Configured for:
  - **Babel 7**
  - **Mocha**
  - **Jest**
