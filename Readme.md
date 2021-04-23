@@ -1,6 +1,7 @@
 
 # JS Katas
 [FizzBuzz](src/FizzBuzz.md)
+... more to be added soon
 
 # Contents
 #### Configured for:
