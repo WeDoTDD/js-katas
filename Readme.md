@@ -1,6 +1,6 @@
 
 # JS Katas
-[FizzBuzz](src/FizzBuzz.md)
+[FizzBuzz](src/test/Katas/FizzBuzz.md)
 
 ... more to be added soon
 
