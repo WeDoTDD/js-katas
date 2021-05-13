@@ -12,6 +12,7 @@
 # Tests
 
 To run from command-line:
+- `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"` - install brew if you don't have it yetga .
 - `brew install yarn` - if you don't have yarn installed
 - `yarn` - install dependencies
 - `yarn test-mocha`
