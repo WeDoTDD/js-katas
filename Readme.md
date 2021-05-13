@@ -12,6 +12,7 @@
 # Tests
 
 To run from command-line:
+- `brew install yarn` - if you don't have yarn installed
 - `yarn` - install dependencies
 - `yarn test-mocha`
 - `yarn test-jest`
