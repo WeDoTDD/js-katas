@@ -3,9 +3,8 @@
   "version": "0.0.0",
   "description": "Basic setup for NodeJS: Babel, Mocha, and Jest",
   "scripts": {
-    "test-mocha": "mocha -r @babel/register src/test/mocha/**/*.spec.js -r chai/register-expect -w",
-    "test-jest": "jest",
-    "debug-jest": "Jest run/debug configuration"
+    "test-mocha-movie-rental": "mocha -r @babel/register src/test/Katas/Refactoring/MovieRental/**/*.spec.js -r chai/register-expect -w",
+    "test-jest-movie-rental": "jest --watchAll --testPathPattern=src/test/Katas/Refactoring/MovieRental/jest/*.spec.ts"
   },
   "repository": {
     "type": "git",
