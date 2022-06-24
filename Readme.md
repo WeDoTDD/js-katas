@@ -4,9 +4,9 @@
 
 # Description
 
-A comprehensive list of Kata Descriptions as well as JS Test Scaffolding so that you can get to practicing!
+A comprehensive list of Kata Descriptions as well as JS Test Scaffolding so that you can get right to practicing!
 
-### Ready to use
+## Ready to use
 Already provides scaffolding / setup for `Jest` and `Mocha` (you choose).
 
 # Katas
