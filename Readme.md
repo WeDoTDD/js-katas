@@ -1,10 +1,12 @@
 
 # JS Katas
-This repo is not quite ready to use, currently WIP.  I will remove this message once it's ready for general use
+### This repo is not quite ready to use, currently WIP.  I will remove this message once it's ready for general use
+
+# Description
 
 A comprehensive list of Kata Descriptions as well as JS Test Scaffolding so that you can get to practicing!
 
-#### Ready to use
+### Ready to use
 Already provides scaffolding / setup for `Jest` and `Mocha` (you choose).
 
 # Katas
