@@ -24,7 +24,7 @@ Already provides scaffolding / setup for `Jest` and `Mocha` (you choose).
 #### Greenfield
 #### Refactoring / Brownfield
 
-### WIP: needs to be setup:
+### WIP: this growing list needs to be setup:
 - Attack Calculator
 - Bowling Game
 - Build Pipeline
