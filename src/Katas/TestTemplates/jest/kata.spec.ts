@@ -1,7 +1,7 @@
 import {expect} from '@jest/globals';
 
-describe('', () => {
-    it('', () => {
+describe('Rename me', () => {
+    it('rename me', () => {
         // fake assertion.  Change me
         expect(true).toEqual(false);
     });

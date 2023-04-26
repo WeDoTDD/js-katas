@@ -1,7 +1,7 @@
 module.exports = {
 	rootDir: '.',
 	verbose: true,
-	testMatch: ['<rootDir>/BowlingGame/test/jest/**/?(*.)+(spec).[jt]s?(x)'],
+	testMatch: ['<rootDir>/src/Katas/**/?(*.)+(spec).[jt]s'],
 	transform: { '^.+\\.ts$': '<rootDir>/node_modules/ts-jest' },
 	moduleDirectories:['node_modules'],
 	transformIgnorePatterns: ['/node_modules/'],
