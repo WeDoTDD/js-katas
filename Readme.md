@@ -7,13 +7,19 @@
 A comprehensive list of Kata Descriptions as well as JS Test Scaffolding so that you can get right to practicing!
 
 ## Ready to use
-Already provides scaffolding / setup for `Jest` and `Mocha` (you choose).
+It provides ready scaffolding / setup for `Jest` and `Mocha` (you choose).
+
+All you need to do is to choose which you want to use (Mocha or Jest).  Just copy the mocha or jest folder to whatever kata you want to start on.
+
+**Example**
+
+ I want to do the FizzBuzz kata with mocha, so I copy `src/TestTemplates/mocha folder` to `/src/Katas/FizzBuzz`
 
 # Katas
 
 ## Beginner
 #### Greenfield
-[FizzBuzz](src/test/Katas/FizzBuzz.md)
+[FizzBuzz](src/Katas/FizzBuzz.md)
 #### Refactoring / Brownfield
 
 ## Intermediate
